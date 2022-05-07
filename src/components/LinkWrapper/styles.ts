@@ -13,7 +13,7 @@ export const Wrapper = styled.div`
   }
   &:hover {
     svg {
-      color: var(--hightlight);
+      color: var(--highlight);
     }
   }
 `
